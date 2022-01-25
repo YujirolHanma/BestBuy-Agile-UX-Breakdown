@@ -1,7 +1,7 @@
 # BestBuy Agile UX Breakdown
 BestBuy is where you can purchase electronic appliances from kitchen use to the office.
 ## User stories
-- As a customer, I would want to purchase the highest quality kitchen appliances to make my life easier.
+- As a customer, I would want to purchase the highest quality electronic products to make my life easier.
 - As a franchisee, I would want my BestBuy to have mostly everything in stock so that customers can view our products online and increase revenue intake from pickup and deliveries.
 - As a customer, I would want to purchase electronics from a reliable store that has the higest number of refundable days compared to other competitors.
  
